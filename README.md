@@ -11,10 +11,13 @@
 - HTML
 - CSS
 - JavaScript
+- Tailwind
 
 ## Live Demo :arrow_forward:
 
- [WILL BE AVAILABLE SOON]()
+ [Loom](https://www.loom.com/share/364cee520a0b457585e2b5b7e1d663d3)
+ 
+ ![virus](https://user-images.githubusercontent.com/85459676/203874063-27640c59-9cb4-4f4a-acb2-ebbcc7e1813e.png)
 
 ## Getting Started
 
