@@ -11,10 +11,16 @@
 - HTML
 - CSS
 - JavaScript
+- Tailwind
 
-## Live Demo :arrow_forward:
 
- [WILL BE AVAILABLE SOON]()
+## Live Demo :arrow_forward: [Demo](https://ubiquitous-malasada-23c000.netlify.app/)
+
+ 
+ SCREENSHOT
+ ![virus](https://user-images.githubusercontent.com/85459676/203874063-27640c59-9cb4-4f4a-acb2-ebbcc7e1813e.png)
+
+
 
 ## Getting Started
 
@@ -72,3 +78,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
