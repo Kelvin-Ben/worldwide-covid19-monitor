@@ -14,7 +14,7 @@
 - Tailwind
 
 
-## Live video :arrow_forward: [Loom](https://www.loom.com/share/364cee520a0b457585e2b5b7e1d663d3)
+## Live Demo :arrow_forward: [Demo](https://ubiquitous-malasada-23c000.netlify.app/)
 
  
  SCREENSHOT
